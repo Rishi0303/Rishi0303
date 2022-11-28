@@ -19,3 +19,6 @@
 <a href="rishivamprala2002@gmail.com">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
  </a>
+
+
+<img height="295em"  src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?&layout=compact&theme=github-dark" alt="Mridul's GitHub  Activity"/>
