@@ -10,6 +10,10 @@
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  target="_blank"/>
 <a href="https://www.instagram.com/_rishi0303_/">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  <a href="https://twitter.com/RiShI_0303">
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
+</a>
+
 </a>
 </a>
 <a href="rishivamprala2002@gmail.com">
