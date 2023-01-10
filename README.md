@@ -32,6 +32,6 @@
 </br>
 <br />
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=SrikanthamSp&show_icons=true&theme=radical">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=Rishi0303&show_icons=true&theme=radical">
   </br>
 </br>
