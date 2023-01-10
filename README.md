@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @Rishi0303
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning python, Java
+- 🌱 I’m currently learning skills based on python, Java
 - 📫 How to reach me 
 
 <a href="www.linkedin.com/in/rishi-v-67109a20b">
@@ -19,6 +19,19 @@
 <a href="rishivamprala2002@gmail.com">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
  </a>
-
-
-<img height="295em"  src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?&layout=compact&theme=github-dark" alt="Mridul's GitHub  Activity"/>
+ 
+<br/>
+</br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi0303&theme=dracula" alt="Rishi0303" /></p>
+</br>
+<br />
+<p align="center"> 
+  Visitor count<br>
+  <img  src="https://profile-counter.glitch.me/Rishi0303/count.svg" />
+</p>
+</br>
+<br />
+<p align=center>  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=SrikanthamSp&show_icons=true&theme=radical">
+  </br>
+</br>
